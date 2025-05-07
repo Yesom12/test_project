@@ -10,5 +10,8 @@ int main()
     cout << "C++의 세계로 오십시오.\n";
     cout << "후회하지 않으실겁니다 !" << endl;
 
+
+    cout << "추가추가" << endl;
+    
     return 0;
 }
